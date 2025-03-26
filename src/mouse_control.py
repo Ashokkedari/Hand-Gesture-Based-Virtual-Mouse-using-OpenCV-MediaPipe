@@ -1,7 +1,7 @@
 import pyautogui
 import numpy as np
 import time
-from utils import Utils
+from utils.utils import Utils
 
 class VirtualMouse:
     def __init__(self, screen_width=1920, screen_height=1080):
