@@ -22,6 +22,7 @@ This project implements an AI-powered Virtual Mouse that allows users to control
 
 ---
  Installation & Setup
+ 
 1️⃣ Clone the Repository
 ```
 git clone https://github.com/Ashokkedari/Hand-Gesture-Based-Virtual-Mouse-using-OpenCV-MediaPipe.git
