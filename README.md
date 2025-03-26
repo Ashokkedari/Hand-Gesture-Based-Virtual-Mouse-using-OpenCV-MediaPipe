@@ -3,13 +3,21 @@
 This project implements an AI-powered Virtual Mouse that allows users to control their computer using hand gestures instead of a physical mouse. The system utilizes MediaPipe Hands for real-time hand tracking and OpenCV for video processing.
 
 🎯 Key Features
+
 ✅ Move Cursor – Move your index finger to control the pointer.
+
 ✅ Left Click – Touch the thumb and index finger together.
+
 ✅ Right Click – Touch the thumb and ring finger together.
+
 ✅ Drag – Keep the thumb and index finger close while moving.
+
 ✅ Scrolling – Move index and middle fingers up/down.
+
 ✅ Swipe – Move the hand left/right for tab switching.
+
 ✅ Zoom In – Thumb up.
+
 ✅ Zoom Out – Thumb down.
 
 ---
@@ -57,13 +65,21 @@ Press 'q' to quit the application.
 
 🖱️ Gesture Mapping
 Gesture	Action
+
 Move Index Finger	Cursor Movement
-Thumb + Index Touch	      ---> Left Click
+
+Thumb + Index Touch	     ---> Left Click
+
 Thumb + Ring Touch	      ---> Right Click
-Thumb + Index	            ---> Close	Drag
+
+Thumb + Index	           ---> Close	Drag
+
 Index + Middle Up/Down	  ---> Scroll
+
 Hand Left/Right         	---> Swipe
+
 Thumb Up	                ---> Zoom In
+
 Thumb Down	              ---> Zoom Out
 
 ---
