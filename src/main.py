@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import numpy as np
 from mouse_control import VirtualMouse
-from utils import Utils
+from utils.utils import Utils
 
 # Initialize MediaPipe Hands
 mp_hands = mp.solutions.hands
