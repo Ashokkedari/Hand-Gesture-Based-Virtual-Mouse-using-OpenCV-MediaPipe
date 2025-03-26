@@ -1,5 +1,5 @@
 # Hand-Gesture-Based-Virtual-Mouse-using-OpenCV-MediaPipe
-** Introduction
+## Introduction
 This project implements an AI-powered Virtual Mouse that allows users to control their computer using hand gestures instead of a physical mouse. The system utilizes MediaPipe Hands for real-time hand tracking and OpenCV for video processing.
 
 🎯 Key Features
@@ -9,8 +9,8 @@ This project implements an AI-powered Virtual Mouse that allows users to control
 ✅ Drag – Keep the thumb and index finger close while moving.
 ✅ Scrolling – Move index and middle fingers up/down.
 ✅ Swipe – Move the hand left/right for tab switching.
-✅ Zoom In – Raise the pinky finger.
-✅ Zoom Out – Lower the pinky finger.
+✅ Zoom In – Thumb up.
+✅ Zoom Out – Thumb down.
 
 ---
  Installation & Setup
