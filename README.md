@@ -42,7 +42,7 @@ Press 'q' to quit the application.
 ---
 
 
-** 🛠️ Technologies Used
+🛠️ ## Technologies Used
 
 1. Python – Programming language
 
@@ -61,6 +61,7 @@ Press 'q' to quit the application.
 
 
  How It Works?
+ 
 🖐️ The system captures hand movements via a webcam and uses MediaPipe Hands to detect finger positions. Based on predefined gestures, the program translates these hand movements into mouse actions.
 
 🖱️ Gesture Mapping
