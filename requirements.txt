@@ -2,9 +2,3 @@ opencv-python
 mediapipe
 numpy
 pynput
-
-How to Generate Automatically (Optional)
-If you have already installed the dependencies in your environment, you can generate the file automatically:
-```
-pip freeze > requirements.txt
-```
