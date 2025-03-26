@@ -24,7 +24,7 @@ This project implements an AI-powered Virtual Mouse that allows users to control
  Installation & Setup
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/ai-virtual-mouse.git
+git clone https://github.com/Ashokkedari/Hand-Gesture-Based-Virtual-Mouse-using-OpenCV-MediaPipe.git
 cd ai-virtual-mouse
 ```
 2️⃣ Install Required Dependencies
@@ -42,7 +42,7 @@ Press 'q' to quit the application.
 ---
 
 
-🛠️ ## Technologies Used
+🛠️ Technologies Used
 
 1. Python – Programming language
 
